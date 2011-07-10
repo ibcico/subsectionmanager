@@ -48,11 +48,12 @@ body.inline.subsection form a {
 	color: #8fafd9;
 }
 
+/**
 body.inline.subsection form label span {
 	border: 1px solid #616057;
 	background: #494949;
 }
-
+**/
 body.inline.subsection form #error label span {
 	background: #ed4a26;
 	border-color: #656564;
